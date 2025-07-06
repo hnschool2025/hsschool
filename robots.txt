@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hnschool.co.kr/sitemap.xml
